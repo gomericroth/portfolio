@@ -6,7 +6,7 @@ export default function NavBar() {
     return (
         <nav className="flex light-bg justify-space">
             <div className="logo white">
-                <Link href="/">Kalvin Son</Link>
+                <Link href="/">Richard Hamel</Link>
             </div>
 
             <ul className="flex white">

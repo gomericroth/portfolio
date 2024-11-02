@@ -8,21 +8,21 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Blaiti - Frontend Developer</title>
+        <title>Ricahrd Hamel - Full-stack Developer</title>
         <link rel="icon" href="/favicon.ico" />
-        <meta name="author" content="Skander Blaiti" />
-        <meta name="keywords" content="ReactJS, NextJS" />
+        <meta name="author" content="Richard Hamel" />
+        <meta name="keywords" content="ReactJS, NextJS, Arm" />
         <meta name="description" content="I am a talented full stack developer using various frameworks." />
         <meta charSet="UTF-8" />
         <meta name="theme-color" content="#2D2E32" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-        <meta property="og:site_name" content="Kalvin - Full stack Developer" />
+        <meta property="og:site_name" content="Richard - Full stack Developer" />
         <meta property="og:locale" content="en_GB" />
-        <title data-rh="true">Kalvin - Full stack Developer</title>
+        <title data-rh="true">Richard - Full stack Developer</title>
         <meta data-rh="true" property="og:type" content="website"/>
-        <meta data-rh="true" property="og:title" content="Kalvin - Full stack Developer"/>
-        <meta data-rh="true" property="og:image" content="/images/kalvin.png"/>
+        <meta data-rh="true" property="og:title" content="Richard - Full stack Developer"/>
+        <meta data-rh="true" property="og:image" content="/images/Richard.png"/>
       </Head>
 
       {/* Header */}
