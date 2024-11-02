@@ -4,7 +4,6 @@
 
 Developer Portfolio is a web template made for developers to present themselves based on NextJS.
 
-![Developer Protfolio](https://user-images.githubusercontent.com/32510139/196662875-44970df4-d748-4a76-8a5f-ec2f4f0eb0e9.png)
 
 ## Table of Contents
 
@@ -30,13 +29,13 @@ Developer Portfolio is a web template made for developers to present themselves 
 Clone the repo
 
 ```bash
-  git clone https://github.com/blaiti/Developer-Portfolio.git
+  git clone https://github.com/gomericroth/portfolio.git
 ```
 
 Install Developer Portfolio with npm
 
 ```bash
-  cd Developer-Portfolio
+  cd portfolio
   npm install
 ```
 
@@ -101,8 +100,4 @@ Developer-Portfolio
 
 ## Author
 
-[@blaiti](https://github.com/blaiti)
-
-## License
-
-[MIT](https://github.com/blaiti/Chaty/blob/main/LICENSE)
+[@gomericroth](https://github.com/gomericroth)
